@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Northy11
 - 👀 I’m interested in GameDev
-- 🌱 I’m currently learning Unity Engine
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Unity Engine and VR development
+- 💞️ I’m looking to collaborate on Unity Projects
 - 📫 How to reach me @aaravgoel11@gmail.com or f20201696@pilani.bits-pilani.ac.in
 
 <!---
